@@ -1,0 +1,120 @@
+
+Q What is Cloud ?
+
+Ans: Cloud computing is the delivery of on-demand computing services -- 
+	 from applications to storage and processing power -- typically over the internet and on a pay-as-you-go basis.
+	 
+	 Rather than owning their own computing infrastructure or data centers, companies can rent access to anything 
+	 from applications to storage from a cloud service provider.
+
+	One benefit of using cloud computing services is that firms can avoid the upfront cost and complexity of owning 
+	and maintaining their own IT infrastructure, and instead simply pay for what they use, when they use it.
+	
+
+Q What are the Different types of Cloud ?
+
+Ans: Public Cloud -
+
+	 Some public cloud examples include those offered by Amazon, Microsoft, or Google. 
+	 These companies provide both services and infrastructure, which are shared by all customers. 
+	 Public clouds typically have massive amounts of available space, which translates into easy scalability. 
+	 A public cloud is often recommended for software development and collaborative projects. 
+	 Companies can design their applications to be portable, so that a project that’s tested in the public cloud can be moved to the private cloud for production. 
+	 Most cloud providers package their computing resources as part of a service. 
+	 Public cloud examples range from access to a completely virtualized infrastructure that provides little more than raw 
+	 processing power and storage (Infrastructure as a Service, or IaaS) to specialized software programs that are easy to implement and 
+	 use (Software as a Service, or SaaS). 
+
+	The great advantage of a public cloud is its versatility and “pay as you go” structure that allows customers to provision more capacity on demand. 
+	On the downside, the essential infrastructure and operating system of the public cloud remain under full control of the cloud provider. 
+	Customers may continue to use the platform under the terms and conditions laid out by the provider, 
+	but they may have difficulty repatriating their assets if they want to change providers. Should the provider go out of business or make significant 
+	changes to the platform, customers could be forced to make significant infrastructure changes on short notice.
+
+	Private Cloud -
+	
+	Private clouds usually reside behind a firewall and are utilized by a single organization. 
+	A completely on-premises cloud may be the preferred solution for businesses with very tight regulatory requirements, 
+	though private clouds implemented through a colocation provider are gaining in popularity. 
+	Authorized users can access, utilize, and store data in the private cloud from anywhere, just like they could with a public cloud. 
+	The difference is that no one else can access or utilize those computing resources. 
+	Private cloud solutions offer both security and control, but these benefits come at a cost. 
+	The company that owns the cloud is responsible for both software and infrastructure, making this a less economical model than the public cloud.
+
+	The additional control offered by a private cloud makes it easier to restrict access to valuable assets and ensures that a 
+	company will be able to move its data and applications where it wants, whenever it wants. 
+	Furthermore, since the private cloud isn’t controlled by an outside vendor, there’s no risk of sudden changes disrupting the company’s entire infrastructure. 
+	A private cloud solution will also not be affected by a public cloud provider’s system downtime. But private clouds also lack the versatility of public clouds. 
+	They can only be expanded by adding more physical compute and storage capacity, making it difficult to scale operations quickly should the business need arise.
+	
+	Hybrid Cloud -
+	
+	Hybrid clouds combine public clouds with private clouds. 
+	They are designed to allow the two platforms to interact seamlessly, with data and applications moving seamlessly from one to the other. 
+
+	The primary advantage of a hybrid cloud model is its ability to provide the scalable computing power of a public cloud with the security and control 
+	of a private cloud. Data can be stored safely behind the firewalls and encryption protocols of the private cloud, then moved securely into a public 
+	cloud environment when needed. This is especially helpful in the age of big data analytics, when industries like healthcare must adhere to strict data 
+	privacy regulations while also using sophisticated algorithms powered by artificial intelligence (AI) to derive actionable insights from huge masses of 
+	unstructured data. 
+
+	There are two commonly used types of hybrid cloud architecture. 
+	Cloudbursting uses a private cloud as its primary cloud, storing data and housing proprietary applications in a secure environment. 
+	When service demands increase, however, the private cloud’s infrastructure may not have the capacity to keep up. That’s where the public cloud comes in. 
+	A cloudbursting model uses the public cloud’s computing resources to supplement the private cloud, allowing the company to handle increased traffic 
+	without having to purchase new servers or other infrastructure.
+
+	The second type of hybrid cloud model also runs most applications and houses data in a private cloud environment, 
+	but outsources non-critical applications to a public cloud provider. This arrangement is common for organizations that need to access specialized 
+	development tools (like Adobe Creative Cloud), basic productivity software (like Microsoft Office 365), or CRM platforms (like Salesforce). 
+	Multi-cloud architecture is often deployed here, incorporating multiple cloud service providers to meet a variety of unique organizational needs.
+	
+	
+Q  What are the Advantage of the Cloud ?
+
+Ans: 
+
+	1. Less Costs
+	The services are free from capital expenditure. There are no huge costs of hardware in cloud computing. 
+	You just have to pay as you operate it and enjoy the model based on your subscription plan.
+
+	2. 24 X 7 Availability
+	Most of the cloud providers are truly reliable in offering their services, with most of them maintaining an uptime of 99.9%. 
+	The workers can get onto the applications needed basically from anywhere. Some of the applications even function off-line.
+	
+	3. Flexibility in Capacity
+	It offers flexible facility which could be turned off, up or down as per the circumstances of the user. 
+	For instance, a promotion of sales is very popular, capacity can be immediately and quickly added to it for the avoidance of losing sales 
+	and crashing servers. When those sales are done, the capacity can also be shrunk for the reduction of costs.
+	
+	4. All over Functioning
+	Cloud computing offers yet another advantage of working from anywhere across the globe, as long as you have an internet connection. 
+	Even while using the critical cloud services that offer mobile apps, there is no limitation of the device used.
+	
+	5. Automated Updates on Software
+	In cloud computing, the server suppliers regularly update your software including the updates on security, 
+	so that you do not need to agonize on wasting your crucial time on maintaining the system. 
+	You find extra time to focus on the important things like ‘How to grow your businesses.
+	
+	6. Security
+	Cloud computing offers great security when any sensitive data has been lost. As the data is stored in the system, 
+	it can be easily accessed even if something happens to your computer. You can even remotely wipe out data from the lost machines for 
+	avoiding it getting in the wrong hands.
+	
+	
+Q What is EC2 in AWS ?
+
+Ans: Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. 
+	 It is designed to make web-scale cloud computing easier for developers. 
+	 Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. 
+	 It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.	
+	
+	Reliable, Scalable, Infrastructure On Demand
+	Increase or decrease capacity within minutes, not hours or days
+
+	SLA commitment of 99.99% availability for each Amazon EC2 region. Each region consists of at least 3 availability zones
+
+	The AWS Region/AZ model has been recognized by Gartner as the recommended approach for running enterprise applications that require high availability
+	
+	
+	
